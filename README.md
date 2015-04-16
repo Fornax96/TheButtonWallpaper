@@ -1,5 +1,6 @@
 # TheButtonWallpaper
-Changes your desktop background to The Button timer
+Changes your desktop background to The Button timer.
+
 Demo: https://www.youtube.com/watch?v=kx_ztJ3VIk0
 
 This program was written in about half an hour and will not further be updated.
